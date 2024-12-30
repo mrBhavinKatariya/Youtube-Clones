@@ -1,0 +1,14 @@
+{
+  "name": "youtubeclone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript, backend"
+  },
+  "keywords": [
+    "bhavin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
