@@ -1,0 +1,40 @@
+
+#h3{
+  margin-left: 256px;
+  font-size: 33px;
+}
+
+#d1{
+  border: 1px solid black;
+  height: 400px;
+  width: 900px;
+  margin-left: 186px;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+#input1{
+  margin-left: 219px;
+  width: 400px;
+  height: 38px;
+  border: none;
+  background-color: antiquewhite;
+  font-size: 16px;
+  
+
+}
+
+#div2{
+  margin-left: 230px;
+  margin-top: 20px;
+  justify-content: space-around;
+  display: inline-flex;
+}
+
+#copy{
+  height: 39px;
+  width: 80px;
+  border-radius: 0px 5px 5px 0px;
+  border: none;
+  background-color: rgb(45, 217, 125);
+}

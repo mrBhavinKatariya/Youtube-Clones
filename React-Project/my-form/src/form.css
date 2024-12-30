@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#div1 td span{
+  
+    width: 65px;
+    display: inline-block;
+  
+}
+
+#div1{
+    border: 1px solid black;
+    height: 500px;
+    width: 400px;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+
+#div1 td {
+    display: block;
+    margin-bottom: 10px;
+    padding-left: 50px;
+    box-sizing: border-box;
+
+}
+
+#div1 button{
+    margin-left: 50px;
+    height: 30px;
+    width:80px;
+    margin-top:50px;
+}
+
+#table1{
+    margin-left: 400px;
+    margin-top: -455px;
+    border: 1px solid black;
+     /* visibility:visible;  */
+}
+
+#table1 thead tr th{
+    width: 100px;
+    border: 1px solid black;
+}
+
+#tbodys tr td{
+    text-align: center;
+}
