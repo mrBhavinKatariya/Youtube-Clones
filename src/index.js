@@ -26,6 +26,7 @@ connectDB()
     console.log("Failed to connect to MongoDB !!", err);
   });
 
+
 // const app = express();
 // ;(async () => {
 //     try {
@@ -43,3 +44,5 @@ connectDB()
 
 //     }
 // })()
+
+
